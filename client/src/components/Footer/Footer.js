@@ -41,10 +41,10 @@ const Footer = () => {
                                 <LocalPhoneIcon /> <span>+123 4567 890</span>
                             </li>
                             <li className="footer__contact">
-                                <EmailIcon /> <span>shop@shema.com</span>
+                                <EmailIcon /> <span>shop@thrifty.com</span>
                             </li>
                             <li className="footer__contact">
-                                <LocationOnIcon /> <span>Addis Ababa, Ethiopia</span>
+                                <LocationOnIcon /> <span>New Haven, Yale</span>
                             </li>
                         </ul>
                     </div>
