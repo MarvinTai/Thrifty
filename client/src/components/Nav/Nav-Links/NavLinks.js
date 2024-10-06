@@ -8,10 +8,9 @@ const NavLinks = () => {
                     <ul className="nav">
                         <li className='nav-link'><Link to="/">Home</Link></li> 
                         <li className='nav-link'><Link to="/category/men">Jackets</Link></li> 
-                        <li className='nav-link'><Link to="/category/women">Tops</Link></li> 
+                        <li className='nav-link'><Link to="/category/women">Dresses</Link></li> 
                         <li className='nav-link'><Link to="/category/kids">Pants</Link></li>
                         <li className='nav-link'><Link to="/shop">Shop</Link> </li>
-                        <li className='nav-link'><Link to="/shop">Map</Link> </li>
                     </ul>
                 </div>
             </nav>
